@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Levels>
+	<!--
+	-->
+	<Level levelNum="1" name="Day1" maxPopulation="25" spawnRate="1" infectionRate="5" infectionThreshold="2000" maxImmunityStr="200"/>
+</Levels>

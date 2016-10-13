@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParkSpark>
+	<random_sparks>
+		<r_spark>Having fun!</r_spark>
+		<r_spark>This park is awesome!</r_spark>
+	</random_sparks>
+	
+	<storyline_sparks>
+		<s_spark>
+			<text>This is an important message</text>
+			<trigger_number>5</trigger_number>
+		</s_spark>
+		<s_spark>
+			<text>This is also an important message</text>
+			<trigger_number>10</trigger_number>
+		</s_spark>
+	</storyline_sparks>
+	
+	<bloody_sparks>
+		<b_spark>Not feeling too well</b_spark>
+		<b_spark>Can't really see</b_spark>
+	</bloody_sparks>
+	
+</ParkSpark>

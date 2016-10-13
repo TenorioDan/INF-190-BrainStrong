@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Player>
+  <PlayerEcon money="239" BEPF="25" PR="100" nanoMach="0" nanoVac="0" />
+  <Upgrade Name="Jump Forward" indexNum="0" unlocked="1" enableImage="jump" disableImage="jumpbought" cost="7"> Press the spacebar to spring forward to evade enemies </Upgrade>
+  <Upgrade Name="Shield" indexNum="1" unlocked="1" enableImage="shield" disableImage="shieldbought" cost="9"> Press shift to activate a shield and avoid harm </Upgrade>
+  <Upgrade Name="Spread Shot" indexNum="2" unlocked="1" enableImage="spreadshot" disableImage="spreadshotbought" cost="15"> Shoot particles in three different directions. Press 'R' to toggle. </Upgrade>
+</Player>
